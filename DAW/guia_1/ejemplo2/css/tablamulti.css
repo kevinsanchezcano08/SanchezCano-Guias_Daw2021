@@ -83,3 +83,11 @@ td:last-child {
   -webkit-border-radius: 0 0 0 0;
   border-radius: 0px 0px 0px 0px;  
 }
+a{
+    font-family:"Century Gothic";
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 8vw;
+    margin-left: 5vw;
+}
