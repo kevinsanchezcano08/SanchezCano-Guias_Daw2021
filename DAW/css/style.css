@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+*{
+    font-family: 'Oxygen', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.title{
+    margin-top: 2vw;
+    text-align: center;
+}
+.title h1{
+    color: #f7df1e;
+    font-weight: bold;
+}
+.img{
+    font-size: 100px;
+    margin-top: 1vw;
+    text-align: center;
+    color: #f7df1e;
+}
+.box{
+    margin-top: 1vw;
+    padding-bottom: 50px;
+    background-color: #404241;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    box-shadow: 5px 10px 18px #888888;
+    border-radius: 10px;
+}
+.box h3{
+    padding-top: 3vw;
+    text-align: center;
+    color: white;
+}
+.box nav{
+    margin-top: 3vw;
+    text-align: center;
+}
+.box nav a{
+    font-size: 18px;
+    display: inline-flex;
+    text-decoration: none;
+    color: white;
+    margin: 10px 10px;
+    border: solid 1px white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.box nav a:hover{
+    color: black;
+    background-color: white;
+    transition: 0.3s;
+}
+.back{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 3vw;
+}
+.back a{
+    text-decoration: none;
+    color: black;
+}
+.back .fas{
+    margin-right: 0.5vw;
+}
