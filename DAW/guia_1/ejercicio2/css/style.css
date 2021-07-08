@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+*{
+    font-family: 'Oxygen', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.conv h1, p{
+    margin-top: 1vw;
+    text-align: center;
+}
+.conv h1{
+    color: #f7df1e;
+}
+.conv p{
+    counter-reset: #404241;
+}
+.boxes{
+    margin-top: 10vw;
+    margin-left: 18vw;
+    margin-right: 8vw;
+}
+.boxes .fas{
+    color: #f7df1e;
+    margin-left: 2vw;
+    font-size: 35px;
+    margin-bottom: 1vw;
+}
+.boxes h3{
+    color: #404241;
+}
+.boxes a{
+    color: black;
+    text-decoration: none;
+    background-color: #f7df1e;
+    padding: 8px;
+    border-radius: 5px;
+}
+.boxes section{
+    border: #404241 solid 1px;
+    padding: 2.5vw;
+    margin-right: 62vw;
+    margin-bottom: 3vw;
+    border-radius: 5px;
+}
+.boxes .pul h3{
+    margin-left: 0.5vw;
+}
+.boxes .pies h3{
+    margin-left: 2vw;
+}
+.boxes .yardas h3{
+    margin-left: 1vw;
+}
+.boxes .pies{
+    margin-left: 26vw;
+    margin-right: 36vw;
+    margin-top: -16.3vw;
+
+}
+.boxes .yardas{
+    margin-left: 52vw;
+    margin-right: 10vw;
+    margin-top: -16.3vw;
+
+}
+.back{
+    margin-top: 8vw;
+    margin-left: 46vw;
+    color: #404241;
+    font-size: 18px;
+}
+.back a{
+    text-decoration: none;
+    color: #404241;
+}
+.back .fas{
+    margin-right: 0.5vw;
+}
