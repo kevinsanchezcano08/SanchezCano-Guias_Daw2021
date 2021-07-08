@@ -47,3 +47,13 @@ h1 {
     background-color:MistyRose;
     color:Sienna;
 }
+a{
+    font-family:Oswald,Helvetica,Tahoma,"Liberation Sans";
+    text-decoration: none;
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    margin-top: 3vw;
+    margin-left: 1vw;
+
+}
