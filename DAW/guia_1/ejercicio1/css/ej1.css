@@ -3,15 +3,18 @@
     font-family: 'Oxygen', sans-serif;
     padding: 0;
     margin: 0;
+    border-radius: 8px;
+    color: white;
 }
 .head{
     text-align: center;
-    border: #09859E 1px solid;
     padding-top: 2vw;
     margin-left: 4vw;
     margin-right: 4vw;
     padding-bottom: 2vw;
     margin-top: 2vw;
+    background-color: #404241;
+   
 }
 .box{
     margin-top: 2vw;
@@ -19,41 +22,41 @@
     margin-right: 1vw;
 }
 .box .nav{
-    border: #09859E 1px solid;
     margin-left: 3vw;
     margin-top: 1vw;
     margin-bottom: 1vw;
     padding-top: 1vw;
     padding-bottom: 30vw;
     margin-right: 65vw;
+    background-color: #f7df1e
 }
 .box .nav h2{
     text-align: center;
 }
 .box .art1{
-    border: #09859E 1px solid;
     margin-left: 35vw;
     margin-top: -34.3vw;
     margin-bottom: 1vw;
     margin-right: 3vw;
     padding: 4vw;
+    background-color: #404241;
 }
 .box .art1 h3{
     text-align: center;
 }
 .box .art2{
-    border: #09859E 1px solid;
     margin-left: 35vw;
     margin-top: 1.8vw;
     margin-bottom: 1vw;
     margin-right: 3vw;
     padding: 4vw;
+    background-color: #404241;
 }
 .box .art2 h3{
     text-align: center;
 }
 .box .art3{
-    border: #09859E 1px solid;
+    background-color: #404241;
     margin-left: 35vw;
     margin-top: 1.8vw;
     margin-bottom: 1vw;
@@ -65,7 +68,7 @@
 }
 .footer{
     text-align: center;
-    border: #09859E 1px solid;
+    background-color: #404241;
     padding-top: 2vw;
     margin-left: 4vw;
     margin-right: 4vw;
@@ -75,9 +78,7 @@
 }
 .footer a{
     text-decoration: none;
-    color: #09859E;
 }
 .footer .fas{
-    color: #09859E;
     margin-right: 0.5vw;
 }
