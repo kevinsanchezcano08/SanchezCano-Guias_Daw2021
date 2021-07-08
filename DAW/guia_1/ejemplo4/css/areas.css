@@ -138,3 +138,17 @@ nav ul li a:hover {
 	height: 0;
 	width: 0px;
 }
+#back{
+	background-color: rgba(205,125,125,1); /* #0960C9 */
+	color: #ccc;
+	display: block;
+	font-size: 1.2em;
+	font-weight: Bold;
+	height: 50px;
+	margin: 32px auto;
+	padding-top: 20px;
+	text-align: center;
+	margin-right: 35vw;
+	margin-left: 35vw;
+	text-decoration: none;
+}
