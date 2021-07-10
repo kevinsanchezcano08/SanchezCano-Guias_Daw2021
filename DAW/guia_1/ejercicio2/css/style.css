@@ -46,10 +46,10 @@
     margin-left: 0.5vw;
 }
 .boxes .pies h3{
-    margin-left: 2vw;
+    margin-left: 1.9vw;
 }
 .boxes .yardas h3{
-    margin-left: 1vw;
+    margin-left: 1.2vw;
 }
 .boxes .pies{
     margin-left: 26vw;
@@ -75,4 +75,27 @@
 }
 .back .fas{
     margin-right: 0.5vw;
+}
+.convMP p{
+    margin-top: 6vw;
+    font-size: 18px;
+    text-align: center;
+    color: #404241;
+}
+.convMP span{
+    background-color: #f7df1e;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+.convMP .fas{
+    color: #404241;
+    margin-top: 5vw;
+    font-size: 70px;
+    margin-left: 47vw;
+}
+.convMP h2{
+    margin-top: 2vw;
+    text-align: center;
+    color: #f7df1e;
 }
